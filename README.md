@@ -66,6 +66,52 @@ pip install pandas numpy
 
 Additional libraries (e.g., `scipy`, `matplotlib`, `seaborn`) may be required in some notebooks for extended functionality or visualization.
 
+
+---
+
+## Usage
+
+1. **Clone the Repository**
+   Start by cloning the project to your local machine:
+
+   ```bash
+   git clone https://github.com/your-username/descriptive-statistics-toolkit.git
+   cd descriptive-statistics-toolkit
+   ```
+
+2. **Install Required Packages**
+   Make sure all dependencies are installed:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Open Jupyter Notebook**
+   Launch Jupyter to access and run the notebooks:
+
+   ```bash
+   jupyter notebook
+   ```
+
+4. **Explore Notebooks**
+   Navigate through the provided notebooks to:
+
+   * Run basic descriptive summaries
+   * Apply customized functions for deeper insights
+   * Perform group-wise comparisons
+   * Analyze both categorical and numerical variables
+
+5. **Integrate Functions**
+   You can also import individual Python functions from the scripts into your own notebooks or projects to streamline descriptive tasks:
+
+   ```python
+   from stats_functions import custom_summary
+   ```
+
+6. **Customize as Needed**
+   Modify or extend the functions and logic to suit your dataset, domain, or analysis goals.
+
+
 ## Use Cases
 
 * Exploratory analysis of structured datasets
