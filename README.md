@@ -24,7 +24,6 @@ Specifically, the project is designed to:
 Whether applied in **academic research**, **business intelligence**, or **data preprocessing** workflows, this toolkit is crafted to assist analysts, students, and data professionals in navigating the early stages of data understanding with **speed**, **precision**, and **clarity**. It aims to promote data-driven thinking and equip users with the tools necessary to build a strong analytical foundation before advancing to more complex modeling tasks.
 
 
-
 ## 🧰 Technologies Used
 
 This project leverages a powerful set of Python libraries and tools widely used in data analysis and statistics:
@@ -38,10 +37,6 @@ This project leverages a powerful set of Python libraries and tools widely used 
 
 These technologies work together to ensure that the project is not only robust and flexible, but also accessible for users with a range of technical backgrounds.
 
-
-Here’s a cleaner, more professional version of the **🚀 Getting Started** section for your README:
-
-----
 
 ## Usage
 
